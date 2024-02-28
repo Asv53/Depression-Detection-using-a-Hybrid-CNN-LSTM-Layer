@@ -9,3 +9,7 @@ Google embedding file https://www.kaggle.com/datasets/suraj520/googlenews-vector
 ## PREREQUISITES
 Download the embeddings and dataset into the root folder
 Install the necessary packages from requirements.txt
+## RESULTS 
+check results.png, network architecture.png, and outline.png for more details regarding the implementation of the model
+## BONUS TIP 
+All the code is available in pro_final.ipynb file.
