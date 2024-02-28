@@ -1,0 +1,11 @@
+keras
+python
+gensim
+pandas
+numpy
+re
+ftfy
+nltk
+wordcloud
+matplotlib
+sklearn
