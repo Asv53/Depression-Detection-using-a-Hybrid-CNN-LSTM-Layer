@@ -8,3 +8,4 @@ Embedding + conv + batchnormalization + maxpooling + lstm + maxpooling
 Google embedding file https://www.kaggle.com/datasets/suraj520/googlenews-vectors-negative300bingz-gz-format
 ## PREREQUISITES
 Download the embeddings and dataset into the root folder
+Install the necessary packages from requirements.txt
